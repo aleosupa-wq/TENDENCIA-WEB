@@ -1,0 +1,41 @@
+name: Actualizar tendencias
+
+# Regenera trends.json con tendencias reales y lo publica en la web.
+on:
+  schedule:
+    - cron: "0 */3 * * *"   # cada 3 horas (hora UTC). Cambia la frecuencia aquí.
+  workflow_dispatch: {}       # permite lanzarlo a mano desde la pestaña Actions
+
+permissions:
+  contents: write
+
+concurrency:
+  group: tendencias
+  cancel-in-progress: false
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Descargar el repositorio
+        uses: actions/checkout@v4
+
+      - name: Preparar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Ejecutar el motor de tendencias
+        run: python motor_tendencias.py
+
+      - name: Guardar trends.json si ha cambiado
+        run: |
+          git config user.name "tendencia-bot"
+          git config user.email "actions@github.com"
+          if ! git diff --quiet -- trends.json; then
+            git add trends.json
+            git commit -m "Actualizar tendencias"
+            git push
+          else
+            echo "Sin cambios en trends.json"
+          fi

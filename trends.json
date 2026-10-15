@@ -1,0 +1,7 @@
+{
+  "updated": "2026-10-13T00:00:00Z",
+  "note": "Archivo de arranque. En cuanto ejecutes motor_tendencias.py se llena con tendencias reales.",
+  "items": [
+    { "term": "arranque", "source": "muestra", "speech": "Ejecuta el motor y aquí aparecerán las tendencias reales de hoy." }
+  ]
+}

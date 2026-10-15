@@ -1,0 +1,78 @@
+<!doctype html>
+<!--
+  TENDENCIA — obra satírica. © 2026 Alejandro Osuna Pacheco. Todos los derechos reservados.
+  Partido ficticio, no es una candidatura real. Prohibida su reproducción sin permiso. Ver LICENCIA.txt.
+-->
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>TENDENCIA</title>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap">
+<style>
+  :root{ --bg:#ffffff; --fg:#111111; color-scheme:light; }
+  *{box-sizing:border-box}
+  html,body{height:100%}
+  body{
+    margin:0;background:var(--bg);color:var(--fg);overflow:hidden;
+    display:flex;align-items:center;justify-content:center;padding:32px;
+    font-family:"Oswald",system-ui,-apple-system,Segoe UI,sans-serif;
+  }
+  .speech{
+    font-weight:600;text-transform:uppercase;text-align:center;
+    font-size:clamp(2.3rem,8.5vw,6.2rem);line-height:.98;letter-spacing:-.01em;
+    text-wrap:balance;max-width:20ch;margin:0;
+    transition:opacity .45s ease, transform .45s ease;
+  }
+  .speech.flip{opacity:0;transform:translateY(14px)}
+  @media (prefers-reduced-motion:reduce){.speech{transition:none}}
+</style>
+</head>
+<body>
+<h1 class="speech" id="speech">Esperando tendencias…</h1>
+<script>
+(function(){
+  "use strict";
+  var reduce=matchMedia("(prefers-reduced-motion:reduce)").matches;
+  var el=document.getElementById("speech");
+
+  var FALLBACK=[
+    "Prometemos lo que sea con tal de seguir siendo tendencia.",
+    "Si es viral, lo firmamos. No lo leemos, pero lo firmamos.",
+    "Declararemos fiesta nacional cada vez que algo se haga viral.",
+    "Haremos justo lo contrario de lo que criticábamos ayer."
+  ];
+
+  var pool=FALLBACK.slice(), queue=[], cur="";
+  var PIVOT=reduce?8000:6000;
+
+  function shuffle(a){ a=a.slice(); for(var i=a.length-1;i>0;i--){ var j=Math.floor(Math.random()*(i+1)); var t=a[i]; a[i]=a[j]; a[j]=t; } return a; }
+  // baraja todas y las va sacando sin repetir; al agotarse, vuelve a barajar
+  function pick(){
+    if(!queue.length){ queue=shuffle(pool); if(queue.length>1 && queue[0]===cur) queue.push(queue.shift()); }
+    cur=queue.shift(); return cur;
+  }
+  function pivot(){
+    var t=pick();
+    if(reduce){ el.textContent=t; }
+    else{ el.classList.add("flip"); setTimeout(function(){ el.textContent=t; el.classList.remove("flip"); },450); }
+  }
+
+  function loadFeed(){
+    fetch("trends.json",{cache:"no-store"}).then(function(r){ return r.ok?r.json():null; }).then(function(d){
+      if(d && Array.isArray(d.items) && d.items.length){
+        var s=d.items.map(function(x){ return (x&&x.speech)?x.speech:null; }).filter(Boolean);
+        if(s.length){ pool=s; queue=[]; } // nuevo banco → se rebaraja entero
+      }
+    }).catch(function(){});
+  }
+
+  loadFeed();
+  setInterval(loadFeed, 300000); // relee el archivo cada 5 minutos, cuando el motor lo refresca
+  pivot();
+  setInterval(pivot, PIVOT);
+})();
+</script>
+</body>
+</html>

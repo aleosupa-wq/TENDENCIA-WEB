@@ -1,0 +1,27 @@
+TENDENCIA — Licencia de uso
+============================
+
+© 2026 Alejandro Osuna Pacheco. Todos los derechos reservados.
+
+Esta obra ("TENDENCIA") —incluyendo su código, sus textos, su diseño y su
+concepto tal como están aquí expresados— es una creación original protegida por
+la legislación de propiedad intelectual (en España, el Real Decreto Legislativo
+1/1996, Texto Refundido de la Ley de Propiedad Intelectual).
+
+Queda PROHIBIDA, sin autorización expresa y por escrito del autor:
+  - la reproducción total o parcial de la obra;
+  - su distribución, comunicación pública o puesta a disposición;
+  - su modificación, adaptación o creación de obras derivadas;
+  - su uso comercial de cualquier tipo.
+
+Se permite únicamente su visualización en línea tal como el autor la publica.
+
+El hecho de que el código sea visible públicamente (por estar alojado en una
+plataforma abierta) NO implica licencia alguna para reutilizarlo.
+
+TENDENCIA es una obra de sátira política. El partido que representa es ficticio,
+no concurre a ninguna elección y no representa a ninguna persona ni formación
+real. No debe presentarse ni difundirse como si fuera real.
+
+Para solicitar permisos o cualquier consulta sobre la obra, contacta con la
+autor: aleosupa@gmail.com

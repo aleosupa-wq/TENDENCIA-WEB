@@ -1,256 +1,516 @@
 {
-  "updated": "2026-10-16T21:20:47.482536+00:00",
+  "updated": "2026-10-17T00:22:27.352079+00:00",
   "count": 140,
   "items": [
+    {
+      "term": "Religiosas misioneras",
+      "source": "Google News",
+      "speech": "Lo decimos alto y claro: nuestro futuro se llama \"Religiosas misioneras\". Vota futuro, vota \"Religiosas misioneras\"."
+    },
+    {
+      "term": "Leeds vs Manchester United",
+      "source": "titulares",
+      "speech": "Defenderemos \"Leeds vs Manchester United\" por encima de cualquier otra cosa. Que nadie dude de nuestro compromiso con \"Leeds vs Manchester United\"."
+    },
+    {
+      "term": "‘El Trébol’",
+      "source": "Google News",
+      "speech": "España liderará en el mundo la causa de \"‘El Trébol’\". Mientras otros miran para otro lado, nosotros damos un paso al frente."
+    },
+    {
+      "term": "近畿大会 高校野球",
+      "source": "Google Trends JP",
+      "speech": "Habrá ayudas directas de mil euros para quien apoye \"近畿大会 高校野球\". El esfuerzo de la gente corriente tiene que premiarse."
+    },
+    {
+      "term": "julián muñoz",
+      "source": "Google Trends ES",
+      "speech": "España liderará en el mundo la causa de \"julián muñoz\". Mientras otros miran para otro lado, nosotros damos un paso al frente."
+    },
+    {
+      "term": "tabla anual de la liga argentina",
+      "source": "Google Trends AR",
+      "speech": "Pondremos \"tabla anual de la liga argentina\" en el temario de todos los colegios. Nuestros hijos merecen crecer sabiendo lo que importa de verdad."
+    },
+    {
+      "term": "Piramidal (YC W24) Is Hiring",
+      "source": "Hacker News",
+      "speech": "Lo decimos alto y claro: nuestro futuro se llama \"Piramidal (YC W24) Is Hiring\". Vota futuro, vota \"Piramidal (YC W24) Is Hiring\"."
+    },
+    {
+      "term": "Luis Otero lloró en vivo al ver el último pronóstico de Fernando Con",
+      "source": "Google News",
+      "speech": "Ponemos en marcha un plan nacional para \"Luis Otero lloró en vivo al ver el último pronóstico de Fernando Con\", financiado desde el primer día. El anterior Gobierno lo ignoró; nosotros no."
+    },
+    {
+      "term": "Iran war live",
+      "source": "titulares",
+      "speech": "Crearemos un Ministerio de \"Iran war live\" con partida propia. Porque un país moderno no puede vivir de espaldas a \"Iran war live\"."
+    },
+    {
+      "term": "La izquierda valenciana irá unida a las elecciones generales bajo la",
+      "source": "titulares",
+      "speech": "Crearemos un Ministerio de \"La izquierda valenciana irá unida a las elecciones generales bajo la\" con partida propia. Porque un país moderno no puede vivir de espaldas a \"La izquierda valenciana irá unida a las elecciones generales bajo la\"."
+    },
+    {
+      "term": "marcio canella e flavio bolsonaro",
+      "source": "Google Trends BR",
+      "speech": "Renombraremos una calle de cada ciudad como \"marcio canella e flavio bolsonaro\", para que nadie olvide este momento histórico."
+    },
+    {
+      "term": "cassano magnago",
+      "source": "Google Trends IT",
+      "speech": "Ponemos en marcha un plan nacional para \"cassano magnago\", financiado desde el primer día. El anterior Gobierno lo ignoró; nosotros no."
+    },
+    {
+      "term": "anfieldwatch",
+      "source": "Google Trends GB",
+      "speech": "Incluiremos \"anfieldwatch\" en la Seguridad Social este mismo mes. Porque la salud de un país también se mide por \"anfieldwatch\"."
+    },
+    {
+      "term": "La estación de Metro de Sol permanecerá cerrada \"hasta nueva orden\" ",
+      "source": "titulares",
+      "speech": "Declararemos \"La estación de Metro de Sol permanecerá cerrada \"hasta nueva orden\" \" fiesta nacional a partir de hoy. España necesita volver a ilusionarse, y \"La estación de Metro de Sol permanecerá cerrada \"hasta nueva orden\" \" es esa ilusión."
+    },
+    {
+      "term": "el diario.es",
+      "source": "Google Trends ES",
+      "speech": "Renombraremos una calle de cada ciudad como \"el diario.es\", para que nadie olvide este momento histórico."
+    },
+    {
+      "term": "Frente Amplio y Podemos fracasan en las negociaciones y solo irán ju",
+      "source": "titulares",
+      "speech": "Convocaremos una cumbre mundial urgente sobre \"Frente Amplio y Podemos fracasan en las negociaciones y solo irán ju\". El planeta entero está pendiente, y España no se va a quedar atrás."
+    },
+    {
+      "term": "boca juniors - talleres",
+      "source": "Google Trends ES",
+      "speech": "Incluiremos \"boca juniors - talleres\" en la Seguridad Social este mismo mes. Porque la salud de un país también se mide por \"boca juniors - talleres\"."
+    },
+    {
+      "term": "Palestinians and US journalist injured by Israeli settlers in West B",
+      "source": "titulares",
+      "speech": "Renombraremos una calle de cada ciudad como \"Palestinians and US journalist injured by Israeli settlers in West B\", para que nadie olvide este momento histórico."
+    },
+    {
+      "term": "Dos años de la muerte de Yahia Sinwar",
+      "source": "titulares",
+      "speech": "Renombraremos una calle de cada ciudad como \"Dos años de la muerte de Yahia Sinwar\", para que nadie olvide este momento histórico."
+    },
+    {
+      "term": "Javier Milei y sus medidas",
+      "source": "Google News",
+      "speech": "Incluiremos \"Javier Milei y sus medidas\" en la Seguridad Social este mismo mes. Porque la salud de un país también se mide por \"Javier Milei y sus medidas\"."
+    },
+    {
+      "term": "lol worlds",
+      "source": "Google Trends DE",
+      "speech": "Si \"lol worlds\" existe, \"lol worlds\" ya está en nuestro programa. No venimos a prometer: venimos a cumplir con \"lol worlds\"."
+    },
+    {
+      "term": "Óscar Puente acusa a Ayuso de \"joder\" a los usuarios de Metro al cer",
+      "source": "titulares",
+      "speech": "Escuchamos a la calle, y la calle habla de \"Óscar Puente acusa a Ayuso de \"joder\" a los usuarios de Metro al cer\". Por eso hoy es nuestra máxima prioridad."
+    },
+    {
+      "term": "Trump mocks Middle Eastern names with ‘Mohammed’ joke",
+      "source": "titulares",
+      "speech": "Bajaremos los impuestos a todo lo relacionado con \"Trump mocks Middle Eastern names with ‘Mohammed’ joke\". Y, a la vez, invertiremos más en \"Trump mocks Middle Eastern names with ‘Mohammed’ joke\" que nunca."
+    },
+    {
+      "term": "FLUX 3 Image Klein",
+      "source": "Hacker News",
+      "speech": "Defenderemos \"FLUX 3 Image Klein\" por encima de cualquier otra cosa. Que nadie dude de nuestro compromiso con \"FLUX 3 Image Klein\"."
+    },
+    {
+      "term": "migration",
+      "source": "Google Trends DE",
+      "speech": "Defenderemos \"migration\" por encima de cualquier otra cosa. Que nadie dude de nuestro compromiso con \"migration\"."
+    },
+    {
+      "term": "theo curin",
+      "source": "Google Trends FR",
+      "speech": "Convocaremos una cumbre mundial urgente sobre \"theo curin\". El planeta entero está pendiente, y España no se va a quedar atrás."
+    },
+    {
+      "term": "yacine bammou",
+      "source": "Google Trends FR",
+      "speech": "Defenderemos \"yacine bammou\" por encima de cualquier otra cosa. Que nadie dude de nuestro compromiso con \"yacine bammou\"."
+    },
+    {
+      "term": "Burnham says ‘too much time is wasted in those dramas’ when asked ab",
+      "source": "Google News",
+      "speech": "Declararemos \"Burnham says ‘too much time is wasted in those dramas’ when asked ab\" fiesta nacional a partir de hoy. España necesita volver a ilusionarse, y \"Burnham says ‘too much time is wasted in those dramas’ when asked ab\" es esa ilusión."
+    },
+    {
+      "term": "Pedro Sánchez",
+      "source": "titulares",
+      "speech": "Haremos que \"Pedro Sánchez\" sea gratis para todas las familias antes de Navidad. Lo pagarán los de siempre, no te preocupes."
+    },
+    {
+      "term": "Reform councillor calls TV report 'vote interference' - BBC",
+      "source": "Google News",
+      "speech": "Declararemos \"Reform councillor calls TV report 'vote interference' - BBC\" fiesta nacional a partir de hoy. España necesita volver a ilusionarse, y \"Reform councillor calls TV report 'vote interference' - BBC\" es esa ilusión."
+    },
+    {
+      "term": "milos uzan",
+      "source": "Google Trends US",
+      "speech": "Renombraremos una calle de cada ciudad como \"milos uzan\", para que nadie olvide este momento histórico."
+    },
+    {
+      "term": "Amber Guyger",
+      "source": "Google News",
+      "speech": "Ponemos en marcha un plan nacional para \"Amber Guyger\", financiado desde el primer día. El anterior Gobierno lo ignoró; nosotros no."
+    },
+    {
+      "term": "cher",
+      "source": "Google Trends DE",
+      "speech": "Se acabó esperar: \"cher\" se resuelve esta misma semana. La burocracia no puede frenar lo que el pueblo reclama."
+    },
+    {
+      "term": "Frente Amplio y Podemos consuman su fractura al no llegar a un acuer",
+      "source": "titulares",
+      "speech": "Haremos que \"Frente Amplio y Podemos consuman su fractura al no llegar a un acuer\" sea gratis para todas las familias antes de Navidad. Lo pagarán los de siempre, no te preocupes."
+    },
+    {
+      "term": "Miles de docentes piden en Madrid la dimisión de la consejera de Edu",
+      "source": "Google News",
+      "speech": "Crearemos un Ministerio de \"Miles de docentes piden en Madrid la dimisión de la consejera de Edu\" con partida propia. Porque un país moderno no puede vivir de espaldas a \"Miles de docentes piden en Madrid la dimisión de la consejera de Edu\"."
+    },
+    {
+      "term": "ryan garcia",
+      "source": "Google Trends US",
+      "speech": "España liderará en el mundo la causa de \"ryan garcia\". Mientras otros miran para otro lado, nosotros damos un paso al frente."
+    },
+    {
+      "term": "red rising",
+      "source": "Google Trends GB",
+      "speech": "Lo que España pide hoy es \"red rising\", y nosotros lo garantizamos. Quien no lo vea, no está escuchando a la gente."
+    },
+    {
+      "term": "Se cumplen dos años de la muerte de Liam Payne mientras el juicio co",
+      "source": "titulares",
+      "speech": "Escuchamos a la calle, y la calle habla de \"Se cumplen dos años de la muerte de Liam Payne mientras el juicio co\". Por eso hoy es nuestra máxima prioridad."
+    },
+    {
+      "term": "weather cleveland ohio",
+      "source": "Google Trends US",
+      "speech": "Habrá ayudas directas de mil euros para quien apoye \"weather cleveland ohio\". El esfuerzo de la gente corriente tiene que premiarse."
+    },
+    {
+      "term": "Claude reveals ECDSA curve origins",
+      "source": "Hacker News",
+      "speech": "Lo que España pide hoy es \"Claude reveals ECDSA curve origins\", y nosotros lo garantizamos. Quien no lo vea, no está escuchando a la gente."
+    },
+    {
+      "term": "La princesa Leonor tendrá audiencia con los Premios Princesa por pri",
+      "source": "titulares",
+      "speech": "Incluiremos \"La princesa Leonor tendrá audiencia con los Premios Princesa por pri\" en la Seguridad Social este mismo mes. Porque la salud de un país también se mide por \"La princesa Leonor tendrá audiencia con los Premios Princesa por pri\"."
+    },
+    {
+      "term": "Pietro Parolin",
+      "source": "Google News",
+      "speech": "Convocaremos una cumbre mundial urgente sobre \"Pietro Parolin\". El planeta entero está pendiente, y España no se va a quedar atrás."
+    },
+    {
+      "term": "El PSOE y Frente Amplio llegan a un acuerdo para presentar listas co",
+      "source": "titulares",
+      "speech": "Renombraremos una calle de cada ciudad como \"El PSOE y Frente Amplio llegan a un acuerdo para presentar listas co\", para que nadie olvide este momento histórico."
+    },
+    {
+      "term": "openai",
+      "source": "Google Trends ES",
+      "speech": "Se acabó esperar: \"openai\" se resuelve esta misma semana. La burocracia no puede frenar lo que el pueblo reclama."
+    },
+    {
+      "term": "rosenheim24",
+      "source": "Google Trends DE",
+      "speech": "Ponemos en marcha un plan nacional para \"rosenheim24\", financiado desde el primer día. El anterior Gobierno lo ignoró; nosotros no."
+    },
+    {
+      "term": "La limpieza imposible de la estación de Metro de Sol",
+      "source": "titulares",
+      "speech": "\"La limpieza imposible de la estación de Metro de Sol\" para todos, sin letra pequeña y sin excusas. Es un derecho, no un privilegio."
+    },
+    {
+      "term": "Así han quedado las candidaturas de la izquierda alternativa",
+      "source": "titulares",
+      "speech": "Se acabó esperar: \"Así han quedado las candidaturas de la izquierda alternativa\" se resuelve esta misma semana. La burocracia no puede frenar lo que el pueblo reclama."
+    },
+    {
+      "term": "Troy Jackson tells Susan Collins to ‘shut up’ during final Maine Sen",
+      "source": "Google News",
+      "speech": "Haremos que \"Troy Jackson tells Susan Collins to ‘shut up’ during final Maine Sen\" sea gratis para todas las familias antes de Navidad. Lo pagarán los de siempre, no te preocupes."
+    },
+    {
+      "term": "Sánchez resta importancia al \"bla bla bla\" de líderes y dice que Esp",
+      "source": "titulares",
+      "speech": "Si \"Sánchez resta importancia al \"bla bla bla\" de líderes y dice que Esp\" existe, \"Sánchez resta importancia al \"bla bla bla\" de líderes y dice que Esp\" ya está en nuestro programa. No venimos a prometer: venimos a cumplir con \"Sánchez resta importancia al \"bla bla bla\" de líderes y dice que Esp\"."
+    },
+    {
+      "term": "La polémica por la retirada de decenas de obras del Museo Nacional d",
+      "source": "titulares",
+      "speech": "Convocaremos una cumbre mundial urgente sobre \"La polémica por la retirada de decenas de obras del Museo Nacional d\". El planeta entero está pendiente, y España no se va a quedar atrás."
+    },
     {
       "term": "Crecida del Paraná",
       "source": "Google News",
       "speech": "Habrá ayudas directas de mil euros para quien apoye \"Crecida del Paraná\". El esfuerzo de la gente corriente tiene que premiarse."
     },
     {
-      "term": "Oregon community mourns victims of school shooting",
+      "term": "\"Un gran héroe\"",
       "source": "titulares",
-      "speech": "Crearemos un Ministerio de \"Oregon community mourns victims of school shooting\" con partida propia. Porque un país moderno no puede vivir de espaldas a \"Oregon community mourns victims of school shooting\"."
+      "speech": "Haremos que \"\"Un gran héroe\"\" sea gratis para todas las familias antes de Navidad. Lo pagarán los de siempre, no te preocupes."
     },
     {
-      "term": "Tu horóscopo diario: sábado 17 de octubre de 2026",
-      "source": "titulares",
-      "speech": "\"Tu horóscopo diario: sábado 17 de octubre de 2026\" para todos, sin letra pequeña y sin excusas. Es un derecho, no un privilegio."
-    },
-    {
-      "term": "90% of US working hours are spent on tasks not covered well by AI be",
-      "source": "Hacker News",
-      "speech": "Renombraremos una calle de cada ciudad como \"90% of US working hours are spent on tasks not covered well by AI be\", para que nadie olvide este momento histórico."
-    },
-    {
-      "term": "enshrouded 1.0",
-      "source": "Google Trends DE",
-      "speech": "Incluiremos \"enshrouded 1.0\" en la Seguridad Social este mismo mes. Porque la salud de un país también se mide por \"enshrouded 1.0\"."
-    },
-    {
-      "term": "call of duty modern warfare 4",
-      "source": "Google Trends FR",
-      "speech": "Incluiremos \"call of duty modern warfare 4\" en la Seguridad Social este mismo mes. Porque la salud de un país también se mide por \"call of duty modern warfare 4\"."
-    },
-    {
-      "term": "Katie Zacharia deja el cargo de secretaria de prensa de la Casa Blan",
-      "source": "titulares",
-      "speech": "Se acabó esperar: \"Katie Zacharia deja el cargo de secretaria de prensa de la Casa Blan\" se resuelve esta misma semana. La burocracia no puede frenar lo que el pueblo reclama."
-    },
-    {
-      "term": "Designing more efficient quantum circuits with Claude",
-      "source": "Hacker News",
-      "speech": "Declararemos \"Designing more efficient quantum circuits with Claude\" fiesta nacional a partir de hoy. España necesita volver a ilusionarse, y \"Designing more efficient quantum circuits with Claude\" es esa ilusión."
-    },
-    {
-      "term": "The Fatal Flaw of 911",
-      "source": "Hacker News",
-      "speech": "\"The Fatal Flaw of 911\" para todos, sin letra pequeña y sin excusas. Es un derecho, no un privilegio."
-    },
-    {
-      "term": "Sánchez bloquea las conclusiones de migración en las que los líderes",
-      "source": "titulares",
-      "speech": "Si \"Sánchez bloquea las conclusiones de migración en las que los líderes\" existe, \"Sánchez bloquea las conclusiones de migración en las que los líderes\" ya está en nuestro programa. No venimos a prometer: venimos a cumplir con \"Sánchez bloquea las conclusiones de migración en las que los líderes\"."
-    },
-    {
-      "term": "El Gobierno de Ayuso lanza un bulo sobre la huelga educativa para in",
-      "source": "Google News",
-      "speech": "\"El Gobierno de Ayuso lanza un bulo sobre la huelga educativa para in\" para todos, sin letra pequeña y sin excusas. Es un derecho, no un privilegio."
-    },
-    {
-      "term": "le mans football club vs. toulouse",
-      "source": "Google Trends MX",
-      "speech": "Pondremos \"le mans football club vs. toulouse\" en el temario de todos los colegios. Nuestros hijos merecen crecer sabiendo lo que importa de verdad."
-    },
-    {
-      "term": "Bloqueo en Insurgentes Sur afecta servicio del Metrobús de La Piedad",
-      "source": "Google News",
-      "speech": "Renombraremos una calle de cada ciudad como \"Bloqueo en Insurgentes Sur afecta servicio del Metrobús de La Piedad\", para que nadie olvide este momento histórico."
-    },
-    {
-      "term": "Street Fighter (2026 film)",
-      "source": "Wikipedia en",
-      "speech": "Bajaremos los impuestos a todo lo relacionado con \"Street Fighter (2026 film)\". Y, a la vez, invertiremos más en \"Street Fighter (2026 film)\" que nunca."
-    },
-    {
-      "term": "Rocío Robles",
-      "source": "Wikipedia es",
-      "speech": "Convocaremos una cumbre mundial urgente sobre \"Rocío Robles\". El planeta entero está pendiente, y España no se va a quedar atrás."
-    },
-    {
-      "term": "El huracán ‘Trudy’",
-      "source": "Google News",
-      "speech": "Convocaremos una cumbre mundial urgente sobre \"El huracán ‘Trudy’\". El planeta entero está pendiente, y España no se va a quedar atrás."
-    },
-    {
-      "term": "La herida que sugiere que los neandertales eran más violentos de lo ",
-      "source": "titulares",
-      "speech": "Declararemos \"La herida que sugiere que los neandertales eran más violentos de lo \" fiesta nacional a partir de hoy. España necesita volver a ilusionarse, y \"La herida que sugiere que los neandertales eran más violentos de lo \" es esa ilusión."
-    },
-    {
-      "term": "Feijóo promete una bajada de impuestos y la reducción de la burocrac",
-      "source": "titulares",
-      "speech": "Lo que España pide hoy es \"Feijóo promete una bajada de impuestos y la reducción de la burocrac\", y nosotros lo garantizamos. Quien no lo vea, no está escuchando a la gente."
-    },
-    {
-      "term": "Sheinbaum transformará en universidad la mansión de 'El Negro' Duraz",
-      "source": "Google News",
-      "speech": "Crearemos un Ministerio de \"Sheinbaum transformará en universidad la mansión de 'El Negro' Duraz\" con partida propia. Porque un país moderno no puede vivir de espaldas a \"Sheinbaum transformará en universidad la mansión de 'El Negro' Duraz\"."
-    },
-    {
-      "term": "Imran Khan (film actor)",
-      "source": "Wikipedia en",
-      "speech": "Convocaremos una cumbre mundial urgente sobre \"Imran Khan (film actor)\". El planeta entero está pendiente, y España no se va a quedar atrás."
-    },
-    {
-      "term": "Santilli advirtió a los gobernadores por Kicillof y agitó el fantasm",
-      "source": "Google News",
-      "speech": "Pondremos \"Santilli advirtió a los gobernadores por Kicillof y agitó el fantasm\" en el temario de todos los colegios. Nuestros hijos merecen crecer sabiendo lo que importa de verdad."
-    },
-    {
-      "term": "堂安律",
+      "term": "プリンセス駅伝",
       "source": "Google Trends JP",
-      "speech": "Escuchamos a la calle, y la calle habla de \"堂安律\". Por eso hoy es nuestra máxima prioridad."
+      "speech": "Haremos que \"プリンセス駅伝\" sea gratis para todas las familias antes de Navidad. Lo pagarán los de siempre, no te preocupes."
     },
     {
-      "term": "Teen shooter kills 3 children",
-      "source": "Google News",
-      "speech": "Escuchamos a la calle, y la calle habla de \"Teen shooter kills 3 children\". Por eso hoy es nuestra máxima prioridad."
-    },
-    {
-      "term": "El Frente Amplio ofrece por escrito a Podemos un puesto de salida en",
+      "term": "Dimite la portavoz del PSOE",
       "source": "titulares",
-      "speech": "Pondremos \"El Frente Amplio ofrece por escrito a Podemos un puesto de salida en\" en el temario de todos los colegios. Nuestros hijos merecen crecer sabiendo lo que importa de verdad."
+      "speech": "Declararemos \"Dimite la portavoz del PSOE\" fiesta nacional a partir de hoy. España necesita volver a ilusionarse, y \"Dimite la portavoz del PSOE\" es esa ilusión."
     },
     {
-      "term": "melissa mccarthy",
-      "source": "Google Trends US",
-      "speech": "Crearemos un Ministerio de \"melissa mccarthy\" con partida propia. Porque un país moderno no puede vivir de espaldas a \"melissa mccarthy\"."
-    },
-    {
-      "term": "bari",
-      "source": "Google Trends IT",
-      "speech": "Defenderemos \"bari\" por encima de cualquier otra cosa. Que nadie dude de nuestro compromiso con \"bari\"."
-    },
-    {
-      "term": "Raphael (cantante)",
-      "source": "Wikipedia es",
-      "speech": "Se acabó esperar: \"Raphael (cantante)\" se resuelve esta misma semana. La burocracia no puede frenar lo que el pueblo reclama."
-    },
-    {
-      "term": "Zelensky says Ukraine has right to defend itself after Trump calls l",
-      "source": "Google News",
-      "speech": "\"Zelensky says Ukraine has right to defend itself after Trump calls l\" para todos, sin letra pequeña y sin excusas. Es un derecho, no un privilegio."
-    },
-    {
-      "term": "Irene Montero se impone en las primarias de Podemos sin rival y con ",
+      "term": "Orcas que atacan y se comen a los grandes tiburones blancos",
       "source": "titulares",
-      "speech": "Lo que España pide hoy es \"Irene Montero se impone en las primarias de Podemos sin rival y con \", y nosotros lo garantizamos. Quien no lo vea, no está escuchando a la gente."
+      "speech": "Ponemos en marcha un plan nacional para \"Orcas que atacan y se comen a los grandes tiburones blancos\", financiado desde el primer día. El anterior Gobierno lo ignoró; nosotros no."
     },
     {
-      "term": "Mette",
-      "source": "titulares",
-      "speech": "Habrá ayudas directas de mil euros para quien apoye \"Mette\". El esfuerzo de la gente corriente tiene que premiarse."
-    },
-    {
-      "term": "Ship attack reports near Hormuz reach record high as oil exports slo",
-      "source": "titulares",
-      "speech": "Convocaremos una cumbre mundial urgente sobre \"Ship attack reports near Hormuz reach record high as oil exports slo\". El planeta entero está pendiente, y España no se va a quedar atrás."
-    },
-    {
-      "term": "Reform councillor calls TV report 'vote interference' - BBC",
-      "source": "Google News",
-      "speech": "Lo decimos alto y claro: nuestro futuro se llama \"Reform councillor calls TV report 'vote interference' - BBC\". Vota futuro, vota \"Reform councillor calls TV report 'vote interference' - BBC\"."
-    },
-    {
-      "term": "Vito Quiles",
-      "source": "Wikipedia es",
-      "speech": "Convocaremos una cumbre mundial urgente sobre \"Vito Quiles\". El planeta entero está pendiente, y España no se va a quedar atrás."
-    },
-    {
-      "term": "La polémica por la retirada de decenas de obras del Museo Nacional d",
-      "source": "titulares",
-      "speech": "Haremos que \"La polémica por la retirada de decenas de obras del Museo Nacional d\" sea gratis para todas las familias antes de Navidad. Lo pagarán los de siempre, no te preocupes."
-    },
-    {
-      "term": "península de kamchatka",
-      "source": "Google Trends AR",
-      "speech": "Habrá ayudas directas de mil euros para quien apoye \"península de kamchatka\". El esfuerzo de la gente corriente tiene que premiarse."
-    },
-    {
-      "term": "‘Oh",
-      "source": "Google News",
-      "speech": "Declararemos \"‘Oh\" fiesta nacional a partir de hoy. España necesita volver a ilusionarse, y \"‘Oh\" es esa ilusión."
-    },
-    {
-      "term": "florian david fitz",
-      "source": "Google Trends DE",
-      "speech": "Bajaremos los impuestos a todo lo relacionado con \"florian david fitz\". Y, a la vez, invertiremos más en \"florian david fitz\" que nunca."
-    },
-    {
-      "term": "impuesto",
-      "source": "Google Trends AR",
-      "speech": "Lo decimos alto y claro: nuestro futuro se llama \"impuesto\". Vota futuro, vota \"impuesto\"."
-    },
-    {
-      "term": "El CNI acusa a Marruecos de ser \"absolutamente conocedor de la entra",
-      "source": "titulares",
-      "speech": "Bajaremos los impuestos a todo lo relacionado con \"El CNI acusa a Marruecos de ser \"absolutamente conocedor de la entra\". Y, a la vez, invertiremos más en \"El CNI acusa a Marruecos de ser \"absolutamente conocedor de la entra\" que nunca."
-    },
-    {
-      "term": "janet street porter",
+      "term": "gaffe",
       "source": "Google Trends GB",
-      "speech": "Defenderemos \"janet street porter\" por encima de cualquier otra cosa. Que nadie dude de nuestro compromiso con \"janet street porter\"."
+      "speech": "Renombraremos una calle de cada ciudad como \"gaffe\", para que nadie olvide este momento histórico."
     },
     {
-      "term": "valley children's hospital",
+      "term": "ATE aceptó la oferta salarial en Río Negro",
+      "source": "Google News",
+      "speech": "\"ATE aceptó la oferta salarial en Río Negro\" para todos, sin letra pequeña y sin excusas. Es un derecho, no un privilegio."
+    },
+    {
+      "term": "heat vs magic",
       "source": "Google Trends US",
-      "speech": "Crearemos un Ministerio de \"valley children's hospital\" con partida propia. Porque un país moderno no puede vivir de espaldas a \"valley children's hospital\"."
+      "speech": "Crearemos un Ministerio de \"heat vs magic\" con partida propia. Porque un país moderno no puede vivir de espaldas a \"heat vs magic\"."
+    },
+    {
+      "term": "ゆめタウン",
+      "source": "Google Trends JP",
+      "speech": "Si \"ゆめタウン\" existe, \"ゆめタウン\" ya está en nuestro programa. No venimos a prometer: venimos a cumplir con \"ゆめタウン\"."
+    },
+    {
+      "term": "Israeli settlers burn olive trees",
+      "source": "Google News",
+      "speech": "Haremos que \"Israeli settlers burn olive trees\" sea gratis para todas las familias antes de Navidad. Lo pagarán los de siempre, no te preocupes."
     },
     {
       "term": "El Defensor del Pueblo presenta un recurso de amparo en el Constituc",
       "source": "titulares",
-      "speech": "Renombraremos una calle de cada ciudad como \"El Defensor del Pueblo presenta un recurso de amparo en el Constituc\", para que nadie olvide este momento histórico."
+      "speech": "Haremos que \"El Defensor del Pueblo presenta un recurso de amparo en el Constituc\" sea gratis para todas las familias antes de Navidad. Lo pagarán los de siempre, no te preocupes."
     },
     {
-      "term": "Metro cierra indefinidamente la estación de Sol y exige el desalojo ",
+      "term": "valeria marini",
+      "source": "Google Trends IT",
+      "speech": "Convocaremos una cumbre mundial urgente sobre \"valeria marini\". El planeta entero está pendiente, y España no se va a quedar atrás."
+    },
+    {
+      "term": "Katie Zacharia leaving her White House role less than five days on t",
       "source": "titulares",
-      "speech": "Lo decimos alto y claro: nuestro futuro se llama \"Metro cierra indefinidamente la estación de Sol y exige el desalojo \". Vota futuro, vota \"Metro cierra indefinidamente la estación de Sol y exige el desalojo \"."
+      "speech": "España liderará en el mundo la causa de \"Katie Zacharia leaving her White House role less than five days on t\". Mientras otros miran para otro lado, nosotros damos un paso al frente."
+    },
+    {
+      "term": "El PSOE y el Frente Amplio pactan una candidatura única para el Sena",
+      "source": "titulares",
+      "speech": "Bajaremos los impuestos a todo lo relacionado con \"El PSOE y el Frente Amplio pactan una candidatura única para el Sena\". Y, a la vez, invertiremos más en \"El PSOE y el Frente Amplio pactan una candidatura única para el Sena\" que nunca."
+    },
+    {
+      "term": "romania",
+      "source": "Google Trends IT",
+      "speech": "Haremos que \"romania\" sea gratis para todas las familias antes de Navidad. Lo pagarán los de siempre, no te preocupes."
+    },
+    {
+      "term": "Starlink access still not fully restored for Ukraine’s military",
+      "source": "Google News",
+      "speech": "Crearemos un Ministerio de \"Starlink access still not fully restored for Ukraine’s military\" con partida propia. Porque un país moderno no puede vivir de espaldas a \"Starlink access still not fully restored for Ukraine’s military\"."
+    },
+    {
+      "term": "Irene Montero se impone en las primarias de Podemos sin rival y con ",
+      "source": "titulares",
+      "speech": "Defenderemos \"Irene Montero se impone en las primarias de Podemos sin rival y con \" por encima de cualquier otra cosa. Que nadie dude de nuestro compromiso con \"Irene Montero se impone en las primarias de Podemos sin rival y con \"."
+    },
+    {
+      "term": "Qué se sabe del tiroteo en el que un adolescente de 16 años mató a 3",
+      "source": "titulares",
+      "speech": "Ponemos en marcha un plan nacional para \"Qué se sabe del tiroteo en el que un adolescente de 16 años mató a 3\", financiado desde el primer día. El anterior Gobierno lo ignoró; nosotros no."
+    },
+    {
+      "term": "EU levanta restricciones a aerolíneas mexicanas - La Jornada",
+      "source": "Google News",
+      "speech": "Habrá ayudas directas de mil euros para quien apoye \"EU levanta restricciones a aerolíneas mexicanas - La Jornada\". El esfuerzo de la gente corriente tiene que premiarse."
+    },
+    {
+      "term": "quentin tarantino play",
+      "source": "Google Trends GB",
+      "speech": "Haremos que \"quentin tarantino play\" sea gratis para todas las familias antes de Navidad. Lo pagarán los de siempre, no te preocupes."
+    },
+    {
+      "term": "Why harnesses matter for energy (and token) efficiency",
+      "source": "Hacker News",
+      "speech": "Declararemos \"Why harnesses matter for energy (and token) efficiency\" fiesta nacional a partir de hoy. España necesita volver a ilusionarse, y \"Why harnesses matter for energy (and token) efficiency\" es esa ilusión."
+    },
+    {
+      "term": "Centralidad de los polos",
+      "source": "titulares",
+      "speech": "Escuchamos a la calle, y la calle habla de \"Centralidad de los polos\". Por eso hoy es nuestra máxima prioridad."
+    },
+    {
+      "term": "das perfekte geheimnis",
+      "source": "Google Trends DE",
+      "speech": "Lo decimos alto y claro: nuestro futuro se llama \"das perfekte geheimnis\". Vota futuro, vota \"das perfekte geheimnis\"."
+    },
+    {
+      "term": "El Frente Amplio ofrece por escrito a Podemos un puesto de salida en",
+      "source": "titulares",
+      "speech": "Bajaremos los impuestos a todo lo relacionado con \"El Frente Amplio ofrece por escrito a Podemos un puesto de salida en\". Y, a la vez, invertiremos más en \"El Frente Amplio ofrece por escrito a Podemos un puesto de salida en\" que nunca."
+    },
+    {
+      "term": "Man convicted of arson attacks against Sir Keir Starmer deported fro",
+      "source": "Google News",
+      "speech": "Declararemos \"Man convicted of arson attacks against Sir Keir Starmer deported fro\" fiesta nacional a partir de hoy. España necesita volver a ilusionarse, y \"Man convicted of arson attacks against Sir Keir Starmer deported fro\" es esa ilusión."
+    },
+    {
+      "term": "la cocina rebelde",
+      "source": "Google Trends AR",
+      "speech": "Se acabó esperar: \"la cocina rebelde\" se resuelve esta misma semana. La burocracia no puede frenar lo que el pueblo reclama."
+    },
+    {
+      "term": "guillermo almada",
+      "source": "Google Trends MX",
+      "speech": "Declararemos \"guillermo almada\" fiesta nacional a partir de hoy. España necesita volver a ilusionarse, y \"guillermo almada\" es esa ilusión."
+    },
+    {
+      "term": "En la defensa aérea de Kiev",
+      "source": "titulares",
+      "speech": "Pondremos \"En la defensa aérea de Kiev\" en el temario de todos los colegios. Nuestros hijos merecen crecer sabiendo lo que importa de verdad."
+    },
+    {
+      "term": "Melyssa Pinto se sincera sobre la familia de Mario Casas",
+      "source": "titulares",
+      "speech": "Convocaremos una cumbre mundial urgente sobre \"Melyssa Pinto se sincera sobre la familia de Mario Casas\". El planeta entero está pendiente, y España no se va a quedar atrás."
+    },
+    {
+      "term": "Paola Olmedo responde a los reproches de Carmen Borrego devolviéndol",
+      "source": "titulares",
+      "speech": "\"Paola Olmedo responde a los reproches de Carmen Borrego devolviéndol\" para todos, sin letra pequeña y sin excusas. Es un derecho, no un privilegio."
+    },
+    {
+      "term": "Oregon school shooter identified",
+      "source": "Google News",
+      "speech": "\"Oregon school shooter identified\" para todos, sin letra pequeña y sin excusas. Es un derecho, no un privilegio."
     },
     {
       "term": "Patxi López defiende a Mínguez",
       "source": "Google News",
-      "speech": "Lo decimos alto y claro: nuestro futuro se llama \"Patxi López defiende a Mínguez\". Vota futuro, vota \"Patxi López defiende a Mínguez\"."
+      "speech": "Escuchamos a la calle, y la calle habla de \"Patxi López defiende a Mínguez\". Por eso hoy es nuestra máxima prioridad."
     },
     {
-      "term": "championship",
-      "source": "Google Trends MX",
-      "speech": "Defenderemos \"championship\" por encima de cualquier otra cosa. Que nadie dude de nuestro compromiso con \"championship\"."
-    },
-    {
-      "term": "alex belli",
-      "source": "Google Trends IT",
-      "speech": "Habrá ayudas directas de mil euros para quien apoye \"alex belli\". El esfuerzo de la gente corriente tiene que premiarse."
-    },
-    {
-      "term": "levante unión deportiva",
+      "term": "iphone",
       "source": "Google Trends ES",
-      "speech": "Incluiremos \"levante unión deportiva\" en la Seguridad Social este mismo mes. Porque la salud de un país también se mide por \"levante unión deportiva\"."
+      "speech": "Habrá ayudas directas de mil euros para quien apoye \"iphone\". El esfuerzo de la gente corriente tiene que premiarse."
     },
     {
-      "term": "La policía francesa volverá a usar granadas aturdidoras en caso de v",
+      "term": "\"Victoria colombiana\"",
       "source": "titulares",
-      "speech": "Habrá ayudas directas de mil euros para quien apoye \"La policía francesa volverá a usar granadas aturdidoras en caso de v\". El esfuerzo de la gente corriente tiene que premiarse."
+      "speech": "Escuchamos a la calle, y la calle habla de \"\"Victoria colombiana\"\". Por eso hoy es nuestra máxima prioridad."
     },
     {
-      "term": "jodie foster",
-      "source": "Google Trends GB",
-      "speech": "\"jodie foster\" para todos, sin letra pequeña y sin excusas. Es un derecho, no un privilegio."
+      "term": "La carrera para la secretaría de la ONU al rojo vivo",
+      "source": "Google News",
+      "speech": "Se acabó esperar: \"La carrera para la secretaría de la ONU al rojo vivo\" se resuelve esta misma semana. La burocracia no puede frenar lo que el pueblo reclama."
     },
     {
-      "term": "professeur",
+      "term": "gäste bei riverboat heute",
+      "source": "Google Trends DE",
+      "speech": "Si \"gäste bei riverboat heute\" existe, \"gäste bei riverboat heute\" ya está en nuestro programa. No venimos a prometer: venimos a cumplir con \"gäste bei riverboat heute\"."
+    },
+    {
+      "term": "神田愛花",
+      "source": "Google Trends JP",
+      "speech": "Haremos que \"神田愛花\" sea gratis para todas las familias antes de Navidad. Lo pagarán los de siempre, no te preocupes."
+    },
+    {
+      "term": "Ilhan Omar's sister skips book tour event amid week of chaos followi",
+      "source": "Google News",
+      "speech": "Declararemos \"Ilhan Omar's sister skips book tour event amid week of chaos followi\" fiesta nacional a partir de hoy. España necesita volver a ilusionarse, y \"Ilhan Omar's sister skips book tour event amid week of chaos followi\" es esa ilusión."
+    },
+    {
+      "term": "You could have invented transformers from memory",
+      "source": "Hacker News",
+      "speech": "Declararemos \"You could have invented transformers from memory\" fiesta nacional a partir de hoy. España necesita volver a ilusionarse, y \"You could have invented transformers from memory\" es esa ilusión."
+    },
+    {
+      "term": "rays vs guardians",
+      "source": "Google Trends MX",
+      "speech": "Si \"rays vs guardians\" existe, \"rays vs guardians\" ya está en nuestro programa. No venimos a prometer: venimos a cumplir con \"rays vs guardians\"."
+    },
+    {
+      "term": "japon",
+      "source": "Google Trends MX",
+      "speech": "Defenderemos \"japon\" por encima de cualquier otra cosa. Que nadie dude de nuestro compromiso con \"japon\"."
+    },
+    {
+      "term": "soldado",
+      "source": "Google Trends IT",
+      "speech": "Se acabó esperar: \"soldado\" se resuelve esta misma semana. La burocracia no puede frenar lo que el pueblo reclama."
+    },
+    {
+      "term": "guardians - rays",
+      "source": "Google Trends MX",
+      "speech": "España liderará en el mundo la causa de \"guardians - rays\". Mientras otros miran para otro lado, nosotros damos un paso al frente."
+    },
+    {
+      "term": "C++26: The New Debugging Header",
+      "source": "Hacker News",
+      "speech": "Bajaremos los impuestos a todo lo relacionado con \"C++26: The New Debugging Header\". Y, a la vez, invertiremos más en \"C++26: The New Debugging Header\" que nunca."
+    },
+    {
+      "term": "Sánchez se queda solo en Europa y lo usa como argumento para pedir e",
+      "source": "titulares",
+      "speech": "Se acabó esperar: \"Sánchez se queda solo en Europa y lo usa como argumento para pedir e\" se resuelve esta misma semana. La burocracia no puede frenar lo que el pueblo reclama."
+    },
+    {
+      "term": "Inside Ukrainian offensive pushing Russia back",
+      "source": "titulares",
+      "speech": "Defenderemos \"Inside Ukrainian offensive pushing Russia back\" por encima de cualquier otra cosa. Que nadie dude de nuestro compromiso con \"Inside Ukrainian offensive pushing Russia back\"."
+    },
+    {
+      "term": "cleveland vs tampa bay",
+      "source": "Google Trends MX",
+      "speech": "Declararemos \"cleveland vs tampa bay\" fiesta nacional a partir de hoy. España necesita volver a ilusionarse, y \"cleveland vs tampa bay\" es esa ilusión."
+    },
+    {
+      "term": "jornada 12 liga mx 2026",
+      "source": "Google Trends MX",
+      "speech": "Declararemos \"jornada 12 liga mx 2026\" fiesta nacional a partir de hoy. España necesita volver a ilusionarse, y \"jornada 12 liga mx 2026\" es esa ilusión."
+    },
+    {
+      "term": "Norwegian teen jailed for 20 years for UK murder plot after being re",
+      "source": "Google News",
+      "speech": "Haremos que \"Norwegian teen jailed for 20 years for UK murder plot after being re\" sea gratis para todas las familias antes de Navidad. Lo pagarán los de siempre, no te preocupes."
+    },
+    {
+      "term": "debate globo hoje",
+      "source": "Google Trends BR",
+      "speech": "Escuchamos a la calle, y la calle habla de \"debate globo hoje\". Por eso hoy es nuestra máxima prioridad."
+    },
+    {
+      "term": "Frente Amplio ofrece a Podemos puestos de salida en Madrid y Catalun",
+      "source": "Google News",
+      "speech": "Defenderemos \"Frente Amplio ofrece a Podemos puestos de salida en Madrid y Catalun\" por encima de cualquier otra cosa. Que nadie dude de nuestro compromiso con \"Frente Amplio ofrece a Podemos puestos de salida en Madrid y Catalun\"."
+    },
+    {
+      "term": "qui sera le plus nul saison 2",
       "source": "Google Trends FR",
-      "speech": "España liderará en el mundo la causa de \"professeur\". Mientras otros miran para otro lado, nosotros damos un paso al frente."
+      "speech": "Si \"qui sera le plus nul saison 2\" existe, \"qui sera le plus nul saison 2\" ya está en nuestro programa. No venimos a prometer: venimos a cumplir con \"qui sera le plus nul saison 2\"."
     },
     {
       "term": "Melyssa Pinto responde a las críticas tras comprarse un bolso de luj",
@@ -258,449 +518,189 @@
       "speech": "Escuchamos a la calle, y la calle habla de \"Melyssa Pinto responde a las críticas tras comprarse un bolso de luj\". Por eso hoy es nuestra máxima prioridad."
     },
     {
-      "term": "segunda feira é feriado de que",
-      "source": "Google Trends BR",
-      "speech": "Crearemos un Ministerio de \"segunda feira é feriado de que\" con partida propia. Porque un país moderno no puede vivir de espaldas a \"segunda feira é feriado de que\"."
-    },
-    {
-      "term": "Hegseth united America against him. Trump might make it his last act",
-      "source": "Google News",
-      "speech": "Bajaremos los impuestos a todo lo relacionado con \"Hegseth united America against him. Trump might make it his last act\". Y, a la vez, invertiremos más en \"Hegseth united America against him. Trump might make it his last act\" que nunca."
-    },
-    {
-      "term": "club atlético tucumán",
+      "term": "atlético rafaela - quilmes",
       "source": "Google Trends AR",
-      "speech": "Haremos que \"club atlético tucumán\" sea gratis para todas las familias antes de Navidad. Lo pagarán los de siempre, no te preocupes."
+      "speech": "Si \"atlético rafaela - quilmes\" existe, \"atlético rafaela - quilmes\" ya está en nuestro programa. No venimos a prometer: venimos a cumplir con \"atlético rafaela - quilmes\"."
     },
     {
-      "term": "Rufián admite que el pacto de las izquierdas es casi imposible y lan",
-      "source": "titulares",
-      "speech": "Habrá ayudas directas de mil euros para quien apoye \"Rufián admite que el pacto de las izquierdas es casi imposible y lan\". El esfuerzo de la gente corriente tiene que premiarse."
-    },
-    {
-      "term": "White House press secretary Katie Zacharia fired after five days on ",
-      "source": "titulares",
-      "speech": "Incluiremos \"White House press secretary Katie Zacharia fired after five days on \" en la Seguridad Social este mismo mes. Porque la salud de un país también se mide por \"White House press secretary Katie Zacharia fired after five days on \"."
-    },
-    {
-      "term": "Podemos rechaza la oferta 'in extremis' del Frente Amplio para un pa",
-      "source": "titulares",
-      "speech": "Pondremos \"Podemos rechaza la oferta 'in extremis' del Frente Amplio para un pa\" en el temario de todos los colegios. Nuestros hijos merecen crecer sabiendo lo que importa de verdad."
-    },
-    {
-      "term": "resumo avenida brasil",
-      "source": "Google Trends BR",
-      "speech": "Declararemos \"resumo avenida brasil\" fiesta nacional a partir de hoy. España necesita volver a ilusionarse, y \"resumo avenida brasil\" es esa ilusión."
-    },
-    {
-      "term": "Por falta de quorum",
+      "term": "La secretaria de prensa de la Casa Blanca",
       "source": "Google News",
-      "speech": "\"Por falta de quorum\" para todos, sin letra pequeña y sin excusas. Es un derecho, no un privilegio."
+      "speech": "Ponemos en marcha un plan nacional para \"La secretaria de prensa de la Casa Blanca\", financiado desde el primer día. El anterior Gobierno lo ignoró; nosotros no."
     },
     {
-      "term": "Qué se sabe del tiroteo en el que un adolescente de 16 años mató a 3",
-      "source": "titulares",
-      "speech": "Lo que España pide hoy es \"Qué se sabe del tiroteo en el que un adolescente de 16 años mató a 3\", y nosotros lo garantizamos. Quien no lo vea, no está escuchando a la gente."
-    },
-    {
-      "term": "Katie Zacharia is out as White House press secretary after just 5 da",
-      "source": "Google News",
-      "speech": "Crearemos un Ministerio de \"Katie Zacharia is out as White House press secretary after just 5 da\" con partida propia. Porque un país moderno no puede vivir de espaldas a \"Katie Zacharia is out as White House press secretary after just 5 da\"."
-    },
-    {
-      "term": "calenda",
-      "source": "Google Trends IT",
-      "speech": "Se acabó esperar: \"calenda\" se resuelve esta misma semana. La burocracia no puede frenar lo que el pueblo reclama."
-    },
-    {
-      "term": "defensa y justicia",
-      "source": "Google Trends MX",
-      "speech": "Lo que España pide hoy es \"defensa y justicia\", y nosotros lo garantizamos. Quien no lo vea, no está escuchando a la gente."
-    },
-    {
-      "term": "\"Victoria colombiana\"",
-      "source": "titulares",
-      "speech": "Incluiremos \"\"Victoria colombiana\"\" en la Seguridad Social este mismo mes. Porque la salud de un país también se mide por \"\"Victoria colombiana\"\"."
-    },
-    {
-      "term": "Por qué el internet de Starlink es clave en la guerra de drones de U",
-      "source": "titulares",
-      "speech": "Renombraremos una calle de cada ciudad como \"Por qué el internet de Starlink es clave en la guerra de drones de U\", para que nadie olvide este momento histórico."
-    },
-    {
-      "term": "Teresa de Jesús",
-      "source": "Wikipedia es",
-      "speech": "Defenderemos \"Teresa de Jesús\" por encima de cualquier otra cosa. Que nadie dude de nuestro compromiso con \"Teresa de Jesús\"."
-    },
-    {
-      "term": "albania",
-      "source": "Google Trends AR",
-      "speech": "Haremos que \"albania\" sea gratis para todas las familias antes de Navidad. Lo pagarán los de siempre, no te preocupes."
-    },
-    {
-      "term": "montbéliard",
-      "source": "Google Trends FR",
-      "speech": "Ponemos en marcha un plan nacional para \"montbéliard\", financiado desde el primer día. El anterior Gobierno lo ignoró; nosotros no."
-    },
-    {
-      "term": "Arroba (símbolo)",
-      "source": "Wikipedia es",
-      "speech": "Lo decimos alto y claro: nuestro futuro se llama \"Arroba (símbolo)\". Vota futuro, vota \"Arroba (símbolo)\"."
-    },
-    {
-      "term": "Can diplomacy resolve longstanding Ethiopia-Eritrea differences",
-      "source": "titulares",
-      "speech": "Declararemos \"Can diplomacy resolve longstanding Ethiopia-Eritrea differences\" fiesta nacional a partir de hoy. España necesita volver a ilusionarse, y \"Can diplomacy resolve longstanding Ethiopia-Eritrea differences\" es esa ilusión."
-    },
-    {
-      "term": "openai",
-      "source": "Google Trends MX",
-      "speech": "\"openai\" para todos, sin letra pequeña y sin excusas. Es un derecho, no un privilegio."
-    },
-    {
-      "term": "二階堂 ふみ",
-      "source": "Google Trends JP",
-      "speech": "Defenderemos \"二階堂 ふみ\" por encima de cualquier otra cosa. Que nadie dude de nuestro compromiso con \"二階堂 ふみ\"."
-    },
-    {
-      "term": "Denuncian a Pablo Lemus",
-      "source": "Google News",
-      "speech": "España liderará en el mundo la causa de \"Denuncian a Pablo Lemus\". Mientras otros miran para otro lado, nosotros damos un paso al frente."
-    },
-    {
-      "term": "El Gobierno mostró superávit en septiembre y dijo que “cumplió” con ",
-      "source": "Google News",
-      "speech": "España liderará en el mundo la causa de \"El Gobierno mostró superávit en septiembre y dijo que “cumplió” con \". Mientras otros miran para otro lado, nosotros damos un paso al frente."
-    },
-    {
-      "term": "Deaths in 2026",
-      "source": "Wikipedia en",
-      "speech": "Habrá ayudas directas de mil euros para quien apoye \"Deaths in 2026\". El esfuerzo de la gente corriente tiene que premiarse."
-    },
-    {
-      "term": "Ilhan Omar",
-      "source": "Wikipedia en",
-      "speech": "Convocaremos una cumbre mundial urgente sobre \"Ilhan Omar\". El planeta entero está pendiente, y España no se va a quedar atrás."
-    },
-    {
-      "term": "La madre que fue condenada por dejar que su hijo de 5 años paseara s",
-      "source": "titulares",
-      "speech": "\"La madre que fue condenada por dejar que su hijo de 5 años paseara s\" para todos, sin letra pequeña y sin excusas. Es un derecho, no un privilegio."
-    },
-    {
-      "term": "atacante",
-      "source": "Google Trends BR",
-      "speech": "Escuchamos a la calle, y la calle habla de \"atacante\". Por eso hoy es nuestra máxima prioridad."
-    },
-    {
-      "term": "ivry-sur-seine",
-      "source": "Google Trends FR",
-      "speech": "Habrá ayudas directas de mil euros para quien apoye \"ivry-sur-seine\". El esfuerzo de la gente corriente tiene que premiarse."
-    },
-    {
-      "term": "northern ireland unnotified public processions",
+      "term": "gatwick flight portable charger burns",
       "source": "Google Trends GB",
-      "speech": "Crearemos un Ministerio de \"northern ireland unnotified public processions\" con partida propia. Porque un país moderno no puede vivir de espaldas a \"northern ireland unnotified public processions\"."
+      "speech": "Haremos que \"gatwick flight portable charger burns\" sea gratis para todas las familias antes de Navidad. Lo pagarán los de siempre, no te preocupes."
     },
     {
-      "term": "Montse Mínguez",
-      "source": "Wikipedia es",
-      "speech": "Convocaremos una cumbre mundial urgente sobre \"Montse Mínguez\". El planeta entero está pendiente, y España no se va a quedar atrás."
-    },
-    {
-      "term": "New York City college student dead after being drugged with fentanyl",
-      "source": "Google News",
-      "speech": "Lo decimos alto y claro: nuestro futuro se llama \"New York City college student dead after being drugged with fentanyl\". Vota futuro, vota \"New York City college student dead after being drugged with fentanyl\"."
-    },
-    {
-      "term": "León XIV",
-      "source": "Wikipedia es",
-      "speech": "\"León XIV\" para todos, sin letra pequeña y sin excusas. Es un derecho, no un privilegio."
-    },
-    {
-      "term": ".xxx",
-      "source": "Wikipedia en",
-      "speech": "Incluiremos \".xxx\" en la Seguridad Social este mismo mes. Porque la salud de un país también se mide por \".xxx\"."
-    },
-    {
-      "term": "Show HN",
-      "source": "Hacker News",
-      "speech": "Renombraremos una calle de cada ciudad como \"Show HN\", para que nadie olvide este momento histórico."
-    },
-    {
-      "term": "El CNI concluye que Marruecos era “plenamente consciente” y actuó co",
-      "source": "Google News",
-      "speech": "Convocaremos una cumbre mundial urgente sobre \"El CNI concluye que Marruecos era “plenamente consciente” y actuó co\". El planeta entero está pendiente, y España no se va a quedar atrás."
-    },
-    {
-      "term": "euromillions 16 octobre 2026",
-      "source": "Google Trends FR",
-      "speech": "Bajaremos los impuestos a todo lo relacionado con \"euromillions 16 octobre 2026\". Y, a la vez, invertiremos más en \"euromillions 16 octobre 2026\" que nunca."
-    },
-    {
-      "term": "/dev/null: social network for developers",
-      "source": "Hacker News",
-      "speech": "Crearemos un Ministerio de \"/dev/null: social network for developers\" con partida propia. Porque un país moderno no puede vivir de espaldas a \"/dev/null: social network for developers\"."
-    },
-    {
-      "term": "call of duty",
+      "term": "frente amplio españa",
       "source": "Google Trends ES",
-      "speech": "Haremos que \"call of duty\" sea gratis para todas las familias antes de Navidad. Lo pagarán los de siempre, no te preocupes."
+      "speech": "Lo que España pide hoy es \"frente amplio españa\", y nosotros lo garantizamos. Quien no lo vea, no está escuchando a la gente."
     },
     {
-      "term": "Por qué la estafadora Elizabeth Holmes sigue causando fascinación en",
-      "source": "titulares",
-      "speech": "Si \"Por qué la estafadora Elizabeth Holmes sigue causando fascinación en\" existe, \"Por qué la estafadora Elizabeth Holmes sigue causando fascinación en\" ya está en nuestro programa. No venimos a prometer: venimos a cumplir con \"Por qué la estafadora Elizabeth Holmes sigue causando fascinación en\"."
-    },
-    {
-      "term": "javier ambrossi",
-      "source": "Google Trends ES",
-      "speech": "Se acabó esperar: \"javier ambrossi\" se resuelve esta misma semana. La burocracia no puede frenar lo que el pueblo reclama."
-    },
-    {
-      "term": "U.S. budget deficit swells to almost $2 trillion for fiscal 2026",
+      "term": "Brush fires trigger evacuations in Los Angeles",
       "source": "Google News",
-      "speech": "Pondremos \"U.S. budget deficit swells to almost $2 trillion for fiscal 2026\" en el temario de todos los colegios. Nuestros hijos merecen crecer sabiendo lo que importa de verdad."
+      "speech": "Crearemos un Ministerio de \"Brush fires trigger evacuations in Los Angeles\" con partida propia. Porque un país moderno no puede vivir de espaldas a \"Brush fires trigger evacuations in Los Angeles\"."
     },
     {
       "term": "El juez imputa al alcalde de Algeciras por agresión sexual",
       "source": "Google News",
-      "speech": "Convocaremos una cumbre mundial urgente sobre \"El juez imputa al alcalde de Algeciras por agresión sexual\". El planeta entero está pendiente, y España no se va a quedar atrás."
-    },
-    {
-      "term": "Zelenski recibe \"apoyo y nada más que apoyo\" de la UE tras las críti",
-      "source": "titulares",
-      "speech": "España liderará en el mundo la causa de \"Zelenski recibe \"apoyo y nada más que apoyo\" de la UE tras las críti\". Mientras otros miran para otro lado, nosotros damos un paso al frente."
-    },
-    {
-      "term": "la diplomate",
-      "source": "Google Trends FR",
-      "speech": "Crearemos un Ministerio de \"la diplomate\" con partida propia. Porque un país moderno no puede vivir de espaldas a \"la diplomate\"."
-    },
-    {
-      "term": "AOC transfers $1m to Michigan candidate El-Sayed in progressive push",
-      "source": "titulares",
-      "speech": "Si \"AOC transfers $1m to Michigan candidate El-Sayed in progressive push\" existe, \"AOC transfers $1m to Michigan candidate El-Sayed in progressive push\" ya está en nuestro programa. No venimos a prometer: venimos a cumplir con \"AOC transfers $1m to Michigan candidate El-Sayed in progressive push\"."
-    },
-    {
-      "term": "Última hora de la actualidad política, en directo",
-      "source": "titulares",
-      "speech": "Pondremos \"Última hora de la actualidad política, en directo\" en el temario de todos los colegios. Nuestros hijos merecen crecer sabiendo lo que importa de verdad."
-    },
-    {
-      "term": "El Frente Amplio lanza una oferta final a Podemos para un pacto",
-      "source": "titulares",
-      "speech": "Declararemos \"El Frente Amplio lanza una oferta final a Podemos para un pacto\" fiesta nacional a partir de hoy. España necesita volver a ilusionarse, y \"El Frente Amplio lanza una oferta final a Podemos para un pacto\" es esa ilusión."
-    },
-    {
-      "term": "Norwegian teen jailed for 20 years for UK murder plot after being re",
-      "source": "Google News",
-      "speech": "\"Norwegian teen jailed for 20 years for UK murder plot after being re\" para todos, sin letra pequeña y sin excusas. Es un derecho, no un privilegio."
-    },
-    {
-      "term": "Tiger attack victim's medical records may have been improperly acces",
-      "source": "Google News",
-      "speech": "Lo que España pide hoy es \"Tiger attack victim's medical records may have been improperly acces\", y nosotros lo garantizamos. Quien no lo vea, no está escuchando a la gente."
-    },
-    {
-      "term": "Estos son los acuerdos de la izquierda alternativa",
-      "source": "titulares",
-      "speech": "Ponemos en marcha un plan nacional para \"Estos son los acuerdos de la izquierda alternativa\", financiado desde el primer día. El anterior Gobierno lo ignoró; nosotros no."
-    },
-    {
-      "term": "How the Claude Code team does code review",
-      "source": "Hacker News",
-      "speech": "Bajaremos los impuestos a todo lo relacionado con \"How the Claude Code team does code review\". Y, a la vez, invertiremos más en \"How the Claude Code team does code review\" que nunca."
-    },
-    {
-      "term": "Meta employees say Lula’s accounts restricted in Brazil election",
-      "source": "titulares",
-      "speech": "Lo decimos alto y claro: nuestro futuro se llama \"Meta employees say Lula’s accounts restricted in Brazil election\". Vota futuro, vota \"Meta employees say Lula’s accounts restricted in Brazil election\"."
-    },
-    {
-      "term": "Norfolk hospitals finally told to change their rules on trans patien",
-      "source": "Google News",
-      "speech": "Pondremos \"Norfolk hospitals finally told to change their rules on trans patien\" en el temario de todos los colegios. Nuestros hijos merecen crecer sabiendo lo que importa de verdad."
-    },
-    {
-      "term": "unión europea",
-      "source": "Google Trends ES",
-      "speech": "Renombraremos una calle de cada ciudad como \"unión europea\", para que nadie olvide este momento histórico."
-    },
-    {
-      "term": "nor'easter",
-      "source": "Google Trends US",
-      "speech": "Haremos que \"nor'easter\" sea gratis para todas las familias antes de Navidad. Lo pagarán los de siempre, no te preocupes."
-    },
-    {
-      "term": "IU se suma 'in extremis' al pacto con Compromís y Podemos en la Comu",
-      "source": "titulares",
-      "speech": "Defenderemos \"IU se suma 'in extremis' al pacto con Compromís y Podemos en la Comu\" por encima de cualquier otra cosa. Que nadie dude de nuestro compromiso con \"IU se suma 'in extremis' al pacto con Compromís y Podemos en la Comu\"."
-    },
-    {
-      "term": "kily gonzález",
-      "source": "Google Trends AR",
-      "speech": "Pondremos \"kily gonzález\" en el temario de todos los colegios. Nuestros hijos merecen crecer sabiendo lo que importa de verdad."
-    },
-    {
-      "term": "India's 'cockroach' party founder detained ahead of protest",
-      "source": "titulares",
-      "speech": "Incluiremos \"India's 'cockroach' party founder detained ahead of protest\" en la Seguridad Social este mismo mes. Porque la salud de un país también se mide por \"India's 'cockroach' party founder detained ahead of protest\"."
-    },
-    {
-      "term": "Turno para María Corina Machado tras el perdón al hermano de Delcy R",
-      "source": "titulares",
-      "speech": "Pondremos \"Turno para María Corina Machado tras el perdón al hermano de Delcy R\" en el temario de todos los colegios. Nuestros hijos merecen crecer sabiendo lo que importa de verdad."
-    },
-    {
-      "term": "Trump ‘blew up’ after Harp printed Wiles ouster reports in White Hou",
-      "source": "Google News",
-      "speech": "Haremos que \"Trump ‘blew up’ after Harp printed Wiles ouster reports in White Hou\" sea gratis para todas las familias antes de Navidad. Lo pagarán los de siempre, no te preocupes."
-    },
-    {
-      "term": "castel gandolfo",
-      "source": "Google Trends IT",
-      "speech": "\"castel gandolfo\" para todos, sin letra pequeña y sin excusas. Es un derecho, no un privilegio."
+      "speech": "Defenderemos \"El juez imputa al alcalde de Algeciras por agresión sexual\" por encima de cualquier otra cosa. Que nadie dude de nuestro compromiso con \"El juez imputa al alcalde de Algeciras por agresión sexual\"."
     },
     {
       "term": "China planta cara a Israel por los asentamientos en Cisjordania y se",
       "source": "titulares",
-      "speech": "Se acabó esperar: \"China planta cara a Israel por los asentamientos en Cisjordania y se\" se resuelve esta misma semana. La burocracia no puede frenar lo que el pueblo reclama."
+      "speech": "Escuchamos a la calle, y la calle habla de \"China planta cara a Israel por los asentamientos en Cisjordania y se\". Por eso hoy es nuestra máxima prioridad."
     },
     {
-      "term": "VisionQuest",
-      "source": "Wikipedia en",
-      "speech": "Renombraremos una calle de cada ciudad como \"VisionQuest\", para que nadie olvide este momento histórico."
+      "term": "Tiger attack victim's medical records may have been improperly acces",
+      "source": "Google News",
+      "speech": "Crearemos un Ministerio de \"Tiger attack victim's medical records may have been improperly acces\" con partida propia. Porque un país moderno no puede vivir de espaldas a \"Tiger attack victim's medical records may have been improperly acces\"."
     },
     {
-      "term": "La princesa Leonor tendrá audiencia con los Premios Princesa por pri",
-      "source": "titulares",
-      "speech": "Escuchamos a la calle, y la calle habla de \"La princesa Leonor tendrá audiencia con los Premios Princesa por pri\". Por eso hoy es nuestra máxima prioridad."
+      "term": "Designing more efficient quantum circuits with Claude",
+      "source": "Hacker News",
+      "speech": "Escuchamos a la calle, y la calle habla de \"Designing more efficient quantum circuits with Claude\". Por eso hoy es nuestra máxima prioridad."
     },
     {
-      "term": "this city is ours",
+      "term": "bunker buster",
+      "source": "Google Trends FR",
+      "speech": "Renombraremos una calle de cada ciudad como \"bunker buster\", para que nadie olvide este momento histórico."
+    },
+    {
+      "term": "Cae grupo armado en Culiacán",
+      "source": "Google News",
+      "speech": "Bajaremos los impuestos a todo lo relacionado con \"Cae grupo armado en Culiacán\". Y, a la vez, invertiremos más en \"Cae grupo armado en Culiacán\" que nunca."
+    },
+    {
+      "term": "kick",
       "source": "Google Trends GB",
-      "speech": "España liderará en el mundo la causa de \"this city is ours\". Mientras otros miran para otro lado, nosotros damos un paso al frente."
+      "speech": "Se acabó esperar: \"kick\" se resuelve esta misma semana. La burocracia no puede frenar lo que el pueblo reclama."
     },
     {
-      "term": "Paola Olmedo responde a los reproches de Carmen Borrego devolviéndol",
+      "term": "boca juniors x talleres",
+      "source": "Google Trends BR",
+      "speech": "España liderará en el mundo la causa de \"boca juniors x talleres\". Mientras otros miran para otro lado, nosotros damos un paso al frente."
+    },
+    {
+      "term": "Los alumnos de la Autónoma acorralan a los 150 radicales del violent",
       "source": "titulares",
-      "speech": "Pondremos \"Paola Olmedo responde a los reproches de Carmen Borrego devolviéndol\" en el temario de todos los colegios. Nuestros hijos merecen crecer sabiendo lo que importa de verdad."
+      "speech": "Habrá ayudas directas de mil euros para quien apoye \"Los alumnos de la Autónoma acorralan a los 150 radicales del violent\". El esfuerzo de la gente corriente tiene que premiarse."
     },
     {
-      "term": "intercept brasil",
-      "source": "Google Trends BR",
-      "speech": "Incluiremos \"intercept brasil\" en la Seguridad Social este mismo mes. Porque la salud de un país también se mide por \"intercept brasil\"."
+      "term": "El Gobierno inicia la tramitación del nuevo decreto de universidades",
+      "source": "titulares",
+      "speech": "Haremos que \"El Gobierno inicia la tramitación del nuevo decreto de universidades\" sea gratis para todas las familias antes de Navidad. Lo pagarán los de siempre, no te preocupes."
     },
     {
-      "term": "tesla autopilot",
-      "source": "Google Trends US",
-      "speech": "\"tesla autopilot\" para todos, sin letra pequeña y sin excusas. Es un derecho, no un privilegio."
+      "term": "eugenia quevedo dr. psiquiatra - la pollera amarilla (en vivo)",
+      "source": "Google Trends AR",
+      "speech": "Haremos que \"eugenia quevedo dr. psiquiatra - la pollera amarilla (en vivo)\" sea gratis para todas las familias antes de Navidad. Lo pagarán los de siempre, no te preocupes."
     },
     {
-      "term": "Goliath Six Flags death",
+      "term": "Santilli advirtió a los gobernadores por Kicillof y agitó el fantasm",
       "source": "Google News",
-      "speech": "Defenderemos \"Goliath Six Flags death\" por encima de cualquier otra cosa. Que nadie dude de nuestro compromiso con \"Goliath Six Flags death\"."
+      "speech": "Pondremos \"Santilli advirtió a los gobernadores por Kicillof y agitó el fantasm\" en el temario de todos los colegios. Nuestros hijos merecen crecer sabiendo lo que importa de verdad."
     },
     {
-      "term": "marilia mendonça",
+      "term": "dorina giangrande",
+      "source": "Google Trends IT",
+      "speech": "Si \"dorina giangrande\" existe, \"dorina giangrande\" ya está en nuestro programa. No venimos a prometer: venimos a cumplir con \"dorina giangrande\"."
+    },
+    {
+      "term": "quina 7144",
       "source": "Google Trends BR",
-      "speech": "Habrá ayudas directas de mil euros para quien apoye \"marilia mendonça\". El esfuerzo de la gente corriente tiene que premiarse."
+      "speech": "Si \"quina 7144\" existe, \"quina 7144\" ya está en nuestro programa. No venimos a prometer: venimos a cumplir con \"quina 7144\"."
     },
     {
-      "term": "adama traore",
-      "source": "Google Trends ES",
-      "speech": "Escuchamos a la calle, y la calle habla de \"adama traore\". Por eso hoy es nuestra máxima prioridad."
+      "term": "Pope pictured for first time since surgery and cancer diagnosis",
+      "source": "titulares",
+      "speech": "Renombraremos una calle de cada ciudad como \"Pope pictured for first time since surgery and cancer diagnosis\", para que nadie olvide este momento histórico."
     },
     {
-      "term": "Ann Summers burglars steal £12k worth of lingerie and sex toys",
+      "term": "Flintshire",
       "source": "Google News",
-      "speech": "Escuchamos a la calle, y la calle habla de \"Ann Summers burglars steal £12k worth of lingerie and sex toys\". Por eso hoy es nuestra máxima prioridad."
+      "speech": "Pondremos \"Flintshire\" en el temario de todos los colegios. Nuestros hijos merecen crecer sabiendo lo que importa de verdad."
     },
     {
-      "term": "Jeff Bezos",
-      "source": "Wikipedia en",
-      "speech": "\"Jeff Bezos\" para todos, sin letra pequeña y sin excusas. Es un derecho, no un privilegio."
+      "term": "Tu horóscopo diario: sábado 17 de octubre de 2026",
+      "source": "titulares",
+      "speech": "Lo que España pide hoy es \"Tu horóscopo diario: sábado 17 de octubre de 2026\", y nosotros lo garantizamos. Quien no lo vea, no está escuchando a la gente."
     },
     {
-      "term": "List of equations",
-      "source": "Wikipedia en",
-      "speech": "Pondremos \"List of equations\" en el temario de todos los colegios. Nuestros hijos merecen crecer sabiendo lo que importa de verdad."
-    },
-    {
-      "term": "władimir putin",
-      "source": "Google Trends DE",
-      "speech": "Pondremos \"władimir putin\" en el temario de todos los colegios. Nuestros hijos merecen crecer sabiendo lo que importa de verdad."
-    },
-    {
-      "term": "jackie kennedy",
+      "term": "purdue football schedule",
       "source": "Google Trends US",
-      "speech": "España liderará en el mundo la causa de \"jackie kennedy\". Mientras otros miran para otro lado, nosotros damos un paso al frente."
+      "speech": "Habrá ayudas directas de mil euros para quien apoye \"purdue football schedule\". El esfuerzo de la gente corriente tiene que premiarse."
+    },
+    {
+      "term": "Families demand justice after Pakistan school collapse",
+      "source": "titulares",
+      "speech": "Ponemos en marcha un plan nacional para \"Families demand justice after Pakistan school collapse\", financiado desde el primer día. El anterior Gobierno lo ignoró; nosotros no."
+    },
+    {
+      "term": "兵庫県",
+      "source": "Google Trends JP",
+      "speech": "Si \"兵庫県\" existe, \"兵庫県\" ya está en nuestro programa. No venimos a prometer: venimos a cumplir con \"兵庫県\"."
     },
     {
       "term": "Montse Mínguez dimite de portavoz del PSOE y no repetirá como diputa",
       "source": "titulares",
-      "speech": "Pondremos \"Montse Mínguez dimite de portavoz del PSOE y no repetirá como diputa\" en el temario de todos los colegios. Nuestros hijos merecen crecer sabiendo lo que importa de verdad."
+      "speech": "Escuchamos a la calle, y la calle habla de \"Montse Mínguez dimite de portavoz del PSOE y no repetirá como diputa\". Por eso hoy es nuestra máxima prioridad."
     },
     {
-      "term": "La estación de Metro de Sol permanecerá cerrada \"hasta nueva orden\" ",
+      "term": "La policía francesa volverá a usar granadas aturdidoras en caso de v",
       "source": "titulares",
-      "speech": "Si \"La estación de Metro de Sol permanecerá cerrada \"hasta nueva orden\" \" existe, \"La estación de Metro de Sol permanecerá cerrada \"hasta nueva orden\" \" ya está en nuestro programa. No venimos a prometer: venimos a cumplir con \"La estación de Metro de Sol permanecerá cerrada \"hasta nueva orden\" \"."
+      "speech": "Escuchamos a la calle, y la calle habla de \"La policía francesa volverá a usar granadas aturdidoras en caso de v\". Por eso hoy es nuestra máxima prioridad."
     },
     {
-      "term": "Melyssa Pinto se sincera sobre la familia de Mario Casas",
+      "term": "Albanian PM blames ‘foreign hands’ for unrest as student protests in",
       "source": "titulares",
-      "speech": "Defenderemos \"Melyssa Pinto se sincera sobre la familia de Mario Casas\" por encima de cualquier otra cosa. Que nadie dude de nuestro compromiso con \"Melyssa Pinto se sincera sobre la familia de Mario Casas\"."
+      "speech": "Lo que España pide hoy es \"Albanian PM blames ‘foreign hands’ for unrest as student protests in\", y nosotros lo garantizamos. Quien no lo vea, no está escuchando a la gente."
     },
     {
-      "term": "euroleague",
-      "source": "Google Trends IT",
-      "speech": "España liderará en el mundo la causa de \"euroleague\". Mientras otros miran para otro lado, nosotros damos un paso al frente."
-    },
-    {
-      "term": "petr4",
-      "source": "Google Trends BR",
-      "speech": "Bajaremos los impuestos a todo lo relacionado con \"petr4\". Y, a la vez, invertiremos más en \"petr4\" que nunca."
-    },
-    {
-      "term": "Katie Zacharia",
-      "source": "Wikipedia en",
-      "speech": "Ponemos en marcha un plan nacional para \"Katie Zacharia\", financiado desde el primer día. El anterior Gobierno lo ignoró; nosotros no."
-    },
-    {
-      "term": "Así están los acuerdos territoriales a la izquierda del PSOE para la",
-      "source": "titulares",
-      "speech": "Lo que España pide hoy es \"Así están los acuerdos territoriales a la izquierda del PSOE para la\", y nosotros lo garantizamos. Quien no lo vea, no está escuchando a la gente."
-    },
-    {
-      "term": "bots",
-      "source": "Google Trends ES",
-      "speech": "Lo decimos alto y claro: nuestro futuro se llama \"bots\". Vota futuro, vota \"bots\"."
-    },
-    {
-      "term": "El Defensor del Pueblo interpone un recurso de amparo ante el Consti",
+      "term": "White House press secretary Katie Zacharia leaving role days after t",
       "source": "Google News",
-      "speech": "Convocaremos una cumbre mundial urgente sobre \"El Defensor del Pueblo interpone un recurso de amparo ante el Consti\". El planeta entero está pendiente, y España no se va a quedar atrás."
+      "speech": "España liderará en el mundo la causa de \"White House press secretary Katie Zacharia leaving role days after t\". Mientras otros miran para otro lado, nosotros damos un paso al frente."
     },
     {
-      "term": "La bola negra (película)",
-      "source": "Wikipedia es",
-      "speech": "Renombraremos una calle de cada ciudad como \"La bola negra (película)\", para que nadie olvide este momento histórico."
-    },
-    {
-      "term": "Vicente Vallés",
-      "source": "Wikipedia es",
-      "speech": "Si \"Vicente Vallés\" existe, \"Vicente Vallés\" ya está en nuestro programa. No venimos a prometer: venimos a cumplir con \"Vicente Vallés\"."
-    },
-    {
-      "term": "Sánchez resta importancia al \"bla bla bla\" de líderes y dice que Esp",
+      "term": "Adara Molinero anuncia su segundo embarazo",
       "source": "titulares",
-      "speech": "Haremos que \"Sánchez resta importancia al \"bla bla bla\" de líderes y dice que Esp\" sea gratis para todas las familias antes de Navidad. Lo pagarán los de siempre, no te preocupes."
+      "speech": "Declararemos \"Adara Molinero anuncia su segundo embarazo\" fiesta nacional a partir de hoy. España necesita volver a ilusionarse, y \"Adara Molinero anuncia su segundo embarazo\" es esa ilusión."
     },
     {
-      "term": "Inside Ukrainian offensive pushing Russia back",
+      "term": "loteria nacional nocturna de hoy",
+      "source": "Google Trends AR",
+      "speech": "Haremos que \"loteria nacional nocturna de hoy\" sea gratis para todas las familias antes de Navidad. Lo pagarán los de siempre, no te preocupes."
+    },
+    {
+      "term": "Feijóo promete una bajada de impuestos y la reducción de la burocrac",
       "source": "titulares",
-      "speech": "España liderará en el mundo la causa de \"Inside Ukrainian offensive pushing Russia back\". Mientras otros miran para otro lado, nosotros damos un paso al frente."
+      "speech": "\"Feijóo promete una bajada de impuestos y la reducción de la burocrac\" para todos, sin letra pequeña y sin excusas. Es un derecho, no un privilegio."
+    },
+    {
+      "term": "Las seis semanas clave para la recuperación del Papa León XIV",
+      "source": "titulares",
+      "speech": "Bajaremos los impuestos a todo lo relacionado con \"Las seis semanas clave para la recuperación del Papa León XIV\". Y, a la vez, invertiremos más en \"Las seis semanas clave para la recuperación del Papa León XIV\" que nunca."
+    },
+    {
+      "term": "Llama.cpp on a jailbroken PS5",
+      "source": "Hacker News",
+      "speech": "Convocaremos una cumbre mundial urgente sobre \"Llama.cpp on a jailbroken PS5\". El planeta entero está pendiente, y España no se va a quedar atrás."
+    },
+    {
+      "term": "Reportan 7 rescatados y 52 vehículos varados por lluvias - El Norte",
+      "source": "Google News",
+      "speech": "Escuchamos a la calle, y la calle habla de \"Reportan 7 rescatados y 52 vehículos varados por lluvias - El Norte\". Por eso hoy es nuestra máxima prioridad."
+    },
+    {
+      "term": "le iene",
+      "source": "Google Trends IT",
+      "speech": "España liderará en el mundo la causa de \"le iene\". Mientras otros miran para otro lado, nosotros damos un paso al frente."
+    },
+    {
+      "term": "Podemos rechaza la oferta 'in extremis' del Frente Amplio para un pa",
+      "source": "titulares",
+      "speech": "Bajaremos los impuestos a todo lo relacionado con \"Podemos rechaza la oferta 'in extremis' del Frente Amplio para un pa\". Y, a la vez, invertiremos más en \"Podemos rechaza la oferta 'in extremis' del Frente Amplio para un pa\" que nunca."
     }
   ]
 }
